@@ -20,7 +20,7 @@ python setup.py install
 ```
 # Train
 ```
-git clone git@github.com:ot4f/Adapool
+git clone https://github.com/ot4f/Adapool.git
 cd Adapool
 mkdir data
 python main.py --dataset PROTEINS --max_timesteps 20 --epoch_num 50
