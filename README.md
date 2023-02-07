@@ -9,9 +9,16 @@ The datasets used in this paper are from [TUDatasets](https://chrsmrrs.github.io
 - torch-geometric == 2.0.3
 - torch-scatter == 2.0.9
 - torch-sparse == 0.6.12
+- magic-graph
+```
+git clone https://github.com/phanein/magic-graph.git
+cd magic-graph
+python setup.py install
+```
 # Train
-1. make `data` directory
-2. train 
-```python
+```
+git clone git@github.com:ot4f/Adapool
+cd Adapool
+mkdir data
 python main.py --dataset PROTEINS --max_timesteps 20 --epoch_num 50
 ```
