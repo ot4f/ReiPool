@@ -4,12 +4,12 @@ Coarsening Networks".
 
 ![](pics/adapool.png)
 # Data preparation
-The datasets used in this paper are from [TUDatasets](https://chrsmrrs.github.io/datasets/docs/datasets/), can be directly accessed through pytorch geometric.
+The datasets used in this paper are from [TUDatasets](https://chrsmrrs.github.io/datasets/docs/datasets/), which can be accessed directly through pytorch geometric.
 # Requirements
 This code run with Python 3. 
 - torch == 1.10.2+cu113
-- torch-cluster == 1.5.9
 - torch-geometric == 2.0.3
+- torch-cluster == 1.5.9
 - torch-scatter == 2.0.9
 - torch-sparse == 0.6.12
 - magic-graph
