@@ -11,7 +11,7 @@ The datasets used in this paper are from [TUDatasets](https://chrsmrrs.github.io
 - torch-sparse == 0.6.12
 # Train
 1. make `data` directory
-2. 
+2. train 
 ```python
 python main.py --dataset PROTEINS --max_timesteps 20 --epoch_num 50
 ```
