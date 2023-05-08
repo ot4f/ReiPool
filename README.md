@@ -1,5 +1,5 @@
 # AdaPool
-The code of paper "AdaPool: Adaptive Graph Pooling via Reinforced Hybrid Graph Coarsening Networks" (Submitted to KDD 2023).
+The code of paper "AdaPool: Adaptive Graph Pooling via Reinforced Hybrid Graph Coarsening Networks".
 
 # Data preparation
 The datasets used in this paper are from [TUDatasets](https://chrsmrrs.github.io/datasets/docs/datasets/), which can be accessed directly through pytorch geometric.
