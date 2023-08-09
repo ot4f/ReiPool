@@ -18,8 +18,8 @@ python setup.py install
 ```
 # Train
 ```
-git clone https://github.com/ot4f/Adapool.git
-cd Adapool
+git clone https://github.com/ot4f/ReiPool.git
+cd ReiPool
 mkdir data
 python main.py --dataset PROTEINS
 ```
